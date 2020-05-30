@@ -1,4 +1,5 @@
 packages:
+    colinmollenhour/credis: 1.11.1
     doctrine/annotations: 1.10.3
     doctrine/cache: 1.10.1
     doctrine/collections: 1.6.5
@@ -31,6 +32,8 @@ packages:
     psr/event-dispatcher: 1.0.0
     psr/link: 1.0.0
     psr/log: 1.1.3
+    resque/php-resque: v1.3.6
+    resquebundle/resque: 3.1.2
     sensio/framework-extra-bundle: v5.5.5
     symfony/asset: v5.0.8
     symfony/browser-kit: v5.0.8

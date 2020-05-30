@@ -14,3 +14,9 @@ framework:
     #fragments: true
     php_errors:
         log: true
+resque:
+    prefix: my-resque-prefix                 # optional prefix to separate Resque data per site/app
+    redis:
+        host: redis                      # the redis host
+        port: 6379                           # the redis port
+        database: 1                          # the redis database
